@@ -1,0 +1,12 @@
+{
+"applogin":"",
+"openlogin":"{}",
+"header":"{"Content-Type":"application/json"}",
+"headertoken":"{"Content-Type":"application/json","Authorization":"Bearer ${token}"}",
+"":"",
+"":"",
+"":""
+
+
+
+}
